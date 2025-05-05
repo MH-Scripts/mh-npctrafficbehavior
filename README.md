@@ -23,14 +23,14 @@
 </p>
 
 # My Youtube Channel
-- [Subscribe](https://www.youtube.com/c/@MaDHouSe79) 
+- [Subscribe](https://www.youtube.com/@MaDHouSe79) 
 
 # MH npc traffic behavior.
 - NPC vehicles drive a little faster and a little more recklessly than normal.
 
 # Installation
 - Step 1: First stop your server.
-- Step 2: Copy the directory `mh-parkinV2` to `resources/[mh]/`.
+- Step 2: Copy the directory `mh-npctrafficbehavior` to `resources/[mh]/`.
 - Stap 3: Add `ensure [mh]` in `server.cfg` below `ensure [defaultmaps]`.
 - Step 4: Start your server. 
 
