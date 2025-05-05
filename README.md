@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/issues">
-    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-npctrafficbehavior"/> 
+  <a href="https://github.com/MH-Scripts/mh-npctrafficbehavior/issues">
+    <img src="https://img.shields.io/github/issues/MH-Scripts/mh-npctrafficbehavior"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/watchers">
-    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-npctrafficbehavior"/> 
+  <a href="https://github.com/MH-Scripts/mh-npctrafficbehavior/watchers">
+    <img src="https://img.shields.io/github/watchers/MH-Scripts/mh-npctrafficbehavior"/> 
   </a> 
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/network/members">
-    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-npctrafficbehavior"/> 
+  <a href="https://github.com/MH-Scripts/mh-npctrafficbehavior/network/members">
+    <img src="https://img.shields.io/github/forks/MH-Scripts/mh-npctrafficbehavior"/> 
   </a>  
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/stargazers">
-    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-npctrafficbehavior?color=white"/> 
+  <a href="https://github.com/MH-Scripts/mh-npctrafficbehavior/stargazers">
+    <img src="https://img.shields.io/github/stars/MH-Scripts/mh-npctrafficbehavior?color=white"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-npctrafficbehavior?color=black"/> 
+  <a href="https://github.com/MH-Scripts/mh-npctrafficbehavior/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MH-Scripts/mh-npctrafficbehavior?color=black"/> 
   </a>      
 </p>
 
